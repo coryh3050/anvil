@@ -1,0 +1,13 @@
+node_modules
+dist
+.output
+.tanstack
+.grok
+artifacts
+screenshots
+.env
+.env.*
+*.local
+.project_id
+public/__grok
+.node_modules.lock
